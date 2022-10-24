@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\..\\data2"
+		},
+		{
+			"path": "..\\..\\hillel"
+		},
+		{
+			"name": "first-lesson",
+			"path": "..\\..\\hillel\\first-lesson"
+		}
+	],
+	"settings": {}
+}
